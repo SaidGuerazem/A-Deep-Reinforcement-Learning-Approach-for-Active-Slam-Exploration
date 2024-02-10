@@ -24,6 +24,8 @@ Your contributions, feedback, and suggestions are highly appreciated as we conti
 
 For further inquiries or collaborations, please feel free to contact us.
 
+
+
 **Team Members:**
 - [Said GUERAZEM](said.guerazem@g.enp.edu.dz)
 
@@ -32,5 +34,5 @@ For further inquiries or collaborations, please feel free to contact us.
 - [Aghiles BENCHIKH](aghiles.benchikh@g.enp.edu.dz)
 
 **Acknowledgments:**
-- Mention any acknowledgments or contributions from external parties.
+- We would like to thank the original authors of the [GymGazebo](https://github.com/erlerobot/gym-gazebo) Pkg and the [original paper](https://www.mdpi.com/2076-3417/10/23/8386?type=check_update&version=2) that was the inspiration to engage into this project.
 
