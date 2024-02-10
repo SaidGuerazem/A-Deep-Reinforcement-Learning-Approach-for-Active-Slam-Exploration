@@ -27,11 +27,11 @@ For further inquiries or collaborations, please feel free to contact us.
 
 
 **Team Members:**
-- [Said GUERAZEM](said.guerazem@g.enp.edu.dz)
+- [Said GUERAZEM](https://www.linkedin.com/in/said-guerazem/)
 
-- [Amine Rami BENNACER](amine_rami.bennacer@g.enp.edu.dz )
+- [Amine Rami BENNACER](https://www.linkedin.com/in/amine-rami-bennacer/)
 
-- [Aghiles BENCHIKH](aghiles.benchikh@g.enp.edu.dz)
+- [Aghiles BENCHIKH](https://www.linkedin.com/in/aghiles-benchikh/)
 
 **Acknowledgments:**
 - We would like to thank the original authors of the [GymGazebo](https://github.com/erlerobot/gym-gazebo) Pkg and the [original paper](https://www.mdpi.com/2076-3417/10/23/8386?type=check_update&version=2) that was the inspiration to engage into this project.
