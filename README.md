@@ -16,15 +16,15 @@ Our solution introduces novel contributions to the existing framework:
 **Environments**
 For the enviroments, we modified the 3rd environment (that was originally in the paper) to be as the maze.world env available in GymGazebo. Furthermore, we kept the first two environments for the training phase.
 
-Circuit 01:
+*Circuit 01:*
 ![Alt Text](images/circuit.png)
 
 
-Circuit 02:
+*Circuit 02:*
 ![Alt Text](images/circuit2.png)
 
 
-Maze(new env):
+*Maze(new env):*
 ![Alt Text](images/maze.png)
 
 2. **D2QN Algorithm (Work-in-Progress):**
