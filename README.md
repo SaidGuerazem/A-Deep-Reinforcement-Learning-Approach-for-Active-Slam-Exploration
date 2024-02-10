@@ -24,6 +24,19 @@ For the enviroments, we modified the 3rd environment (that was originally in the
 2. Maze(new env)
 <img src="images/maze.png" alt="maze" width="400"/>
 
+**Results**
+1. Circuit 01
+<img src="images/d3qnC1.png" alt="cicuitd3qn" width="400"/>
+<img src="images/d3qn_reward_C1.png" alt="cicuitd3qn" width="400"/>
+
+2. Circuit 02
+<img src="images/d3qnC2+.png" alt="cicuitd3qn" width="400"/>
+<img src="images/d3qn_reward_C2.png" alt="cicuitd3qn" width="400"/>
+
+2. Maze(new env)
+<img src="images/d3qnM.png" alt="cicuitd3qn" width="400"/>
+<img src="images/d3qn_reward_M.png" alt="cicuitd3qn" width="400"/>
+
 2. **D2QN Algorithm (Work-in-Progress):**
    Additionally, we aim to implement the D2QN algorithm, although its development is ongoing at the time of this writing.
 
