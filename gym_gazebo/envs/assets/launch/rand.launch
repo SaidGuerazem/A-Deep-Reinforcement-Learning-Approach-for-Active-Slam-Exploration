@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<launch>
+
+<node pkg="map_server" type="map_saver" name="map_saver" output="screen" args="-f /home/arikakite/gym-gazebo/gym_gazebo/envs/assets/launch/map_maze"/>
+
+</launch>
