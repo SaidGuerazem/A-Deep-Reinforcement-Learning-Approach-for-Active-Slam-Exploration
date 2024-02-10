@@ -15,14 +15,17 @@ Our solution introduces novel contributions to the existing framework:
 
 **Environments**
 For the enviroments, we modified the 3rd environment (that was originally in the paper) to be as the maze.world env available in GymGazebo. Furthermore, we kept the first two environments for the training phase.
+1. Element A
+<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="100"/>
+
+2. Element B
+<img src="https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico" alt="Stack Overflow Logo" width="100"/>
 
 *Circuit 01:*
-![Alt Text](images/circuit.png)
-
+<img src="images/circuit.png" alt="GitHub Logo" width="100"/>
 
 *Circuit 02:*
-![Alt Text](images/circuit2.png)
-
+<img src="images/circuit2.png" alt="GitHub Logo" width="100"/>
 
 *Maze(new env):*
 ![Alt Text](images/maze.png)
