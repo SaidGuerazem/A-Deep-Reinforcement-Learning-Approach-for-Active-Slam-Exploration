@@ -15,20 +15,14 @@ Our solution introduces novel contributions to the existing framework:
 
 **Environments**
 For the enviroments, we modified the 3rd environment (that was originally in the paper) to be as the maze.world env available in GymGazebo. Furthermore, we kept the first two environments for the training phase.
-1. Element A
-<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="100"/>
+1. Circuit 01
+<img src="images/circuit.png" alt="cicuit" width="200"/>
 
-2. Element B
-<img src="https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico" alt="Stack Overflow Logo" width="100"/>
+2. Circuit 02
+<img src="images/circuit2.png" alt="circuit2" width="200"/>
 
-*Circuit 01:*
-<img src="images/circuit.png" alt="GitHub Logo" width="100"/>
-
-*Circuit 02:*
-<img src="images/circuit2.png" alt="GitHub Logo" width="100"/>
-
-*Maze(new env):*
-![Alt Text](images/maze.png)
+2. Maze(new env)
+<img src="images/maze.png.png" alt="maze" width="200"/>
 
 2. **D2QN Algorithm (Work-in-Progress):**
    Additionally, we aim to implement the D2QN algorithm, although its development is ongoing at the time of this writing.
