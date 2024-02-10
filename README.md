@@ -13,6 +13,20 @@ Our solution introduces novel contributions to the existing framework:
 1. **D3QN Algorithm with PER Buffer:**
    We propose the implementation of the D3QN algorithm with a Prioritized Experience Replay (PER) buffer. While this approach was described in previous papers, it was not readily available to the public.
 
+**Environments**
+For the enviroments, we modified the 3rd environment (that was originally in the paper) to be as the maze.world env available in GymGazebo. Furthermore, we kept the first two environments for the training phase.
+
+Circuit 01:
+![Alt Text](images/circuit.png)
+
+
+Circuit 02:
+![Alt Text](images/circuit2.png)
+
+
+Maze(new env):
+![Alt Text](images/maze.png)
+
 2. **D2QN Algorithm (Work-in-Progress):**
    Additionally, we aim to implement the D2QN algorithm, although its development is ongoing at the time of this writing.
 
